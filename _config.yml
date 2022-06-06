@@ -40,6 +40,9 @@ plugins:
 heading: Josh Gideon
 subheading: Just another Cyber Security blog
 
+# Google Analytics
+google_analytics: G-06466WN1J2
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
